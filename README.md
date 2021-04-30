@@ -13,3 +13,5 @@ lab5 [点击调用其他组件](https://github.com/chh3/Mobile/tree/master/lab5)
 lab6 [图片的点击事件](https://github.com/chh3/Mobile/tree/master/lab6)
 
 lab7 [part A B C](https://github.com/chh3/Mobile/tree/master/lab7)
+
+lab [card](https://github.com/chh3/Mobile/tree/master/lab8)
