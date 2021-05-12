@@ -17,3 +17,5 @@ lab7 [part A B C](https://github.com/chh3/Mobile/tree/master/lab7)
 lab8 [card](https://github.com/chh3/Mobile/tree/master/lab8)
 
 lab9 [后台](https://github.com/chh3/Mobile/tree/master/lab9)
+
+lab10 [通知](https://github.com/chh3/Mobile/tree/master/lab10)
